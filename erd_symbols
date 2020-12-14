@@ -9,6 +9,7 @@
         .style("postion","absolute")
         .style("left","-120px")
 
+
     icondefs.append("marker")
         .attr('id', "11")
         .attr("viewBox", "0 0 130 130")
@@ -20,6 +21,19 @@
         .attr("class","polymarker")
         .append("path")
         .attr("d","M83.5,69.7 M68,0.1L53.2,0l0.3,130h15.1 M48.6,45.9 M-0.2,59.3l-0.5,13.2l90.3,0.4l0.4-13.4 M51.5,69.6 M36,0L21.2-0.2 l0.3,130h15.1")
+
+
+    icondefs.append("marker")
+        .attr('id', "M")
+        .attr("viewBox", "0 0 90 130")
+        .attr('markerHeight', 5)
+        .attr('markerWidth', 8)
+        .attr('refX', 60)
+        .attr('refY', 60)
+        .attr("orient", "auto")
+        .attr("class","polymarker")
+        .append("path")
+        .attr("d","M89.7,114.5L29.4,69.7H90l-0.3-11.3l-60,0.5l60-43.7L90,0.5L3,65l87,64.5L89.7,114.5z")
 
     icondefs.append("marker")
         .attr('id', "1M")
