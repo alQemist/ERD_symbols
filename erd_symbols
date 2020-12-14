@@ -9,19 +9,6 @@
         .style("postion","absolute")
         .style("left","-120px")
 
-
-    icondefs.append("marker")
-        .attr('id', "M1")
-        .attr("viewBox", "0 0 90 130")
-        .attr('markerHeight', 10)
-        .attr('markerWidth', 10)
-        .attr('refX', 40)
-        .attr('refY', 60)
-        .attr("orient", "auto")
-        .attr("class","polymarker")
-        .append("path")
-        .attr("d","M0,129.5L87,65L0,0.5l0.3,14.7l60,43.7l-60-0.5L0,69.7h60.6L0.3,114.5L0,129.5z")
-
     icondefs.append("marker")
         .attr('id', "11")
         .attr("viewBox", "0 0 130 130")
