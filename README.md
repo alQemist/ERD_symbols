@@ -22,5 +22,5 @@ RELATIONSHIP SYMBOL IDs
 
 Append any of the symbols to a path using
 
-path.attr("marker-end", "url(#1M)") // adds a one to many symbol to the path
+path.attr("marker-end", "url(#1M)") // adds a one to many symbol to the path.
 
