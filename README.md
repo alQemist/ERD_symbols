@@ -14,11 +14,11 @@ Import or include the javascript file in your project and peforms the following:
 
 RELATIONSHIP SYMBOL IDs
 
-11 - One to One
-1M - One to Many
-01 - Zero or One
-0M - Zero or Many
-arrow - for miscellaneous use
+	11 - One to One
+	1M - One to Many
+	01 - Zero or One
+	0M - Zero or Many
+	arrow - included for miscellaneous use
 
 Append any of the symbols to a path using
 
